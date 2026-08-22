@@ -69,6 +69,4 @@ To evaluate **loan portfolio performance and quality** by analyzing loan applica
 │
 └── 📄 README.md
 
-**## 🎯 Conclusion**
 
-The dashboard provides an interactive view of **loan portfolio performance and quality**, enabling users to explore loan trends, Good vs. Bad Loan segments, and key borrower and loan characteristics through dynamic Power BI analysis.
