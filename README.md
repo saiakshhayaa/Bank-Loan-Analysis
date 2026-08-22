@@ -1,4 +1,4 @@
-# 🏦 Bank Loan Analysis – Power BI
+# 🏦 Bank Loan Analysis 
 
 ## 📌 Project Overview
 
